@@ -1,4 +1,4 @@
-# emp-app
+# SweetBeauty
 
 > A Vue.js project
 
